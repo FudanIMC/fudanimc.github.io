@@ -50,7 +50,7 @@
   <tr  bgcolor="#F5EEC6">
     <td>Sept 15</td>
     <td>Dequan Wang</td>
-    <td>Convolutional Neural Network[<a href="#">slides</a>]
+    <td>Convolutional Neural Network[<a href="./slides/wangdequan.pdf">slides</a>]
     </td>
   </tr>
   
@@ -82,8 +82,15 @@
     </td>
   </tr>
   
-
 </table>
+
+<h3>
+<a name="tips" class="anchor" href="#tips"><span class="octicon octicon-link"></span></a>Writing Tips<br></h3>
+
+<ul>
+<li><p><a href="./slides/writing.pdf">How to Write a Good Research Paper</a></p></li>
+<li><p><a href="http://10.141.208.19/CVAA.pdf">Computer.Vision.A.Modern.Approach,.David.A..Forsyth,.Jean.Ponce,.2ed,.PH,.2012</a></p></li>
+</ul>
 
         </section>
 
