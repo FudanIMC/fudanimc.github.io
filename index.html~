@@ -36,14 +36,14 @@
 <table class="p" cellpadding="5">
   <tr bgcolor="#F5EEC6">
      <th class="bottomborder" align="middle" width="75">Date</th>
-    <th class="bottomborder" align="middle" width="100">Moderator</th>
+    <th class="bottomborder" align="middle" width="100">Lecturer</th>
     <th class="bottomborder" align="middle" width="300">Topic</th>
   </tr>
 
   <tr>
     <td>Sept 15</td>
     <td>Sheng Zeng</td>
-    <td>Weakly-Supervised Semantic Segmentation[<a href="#">slides</a>]
+    <td>Weakly-Supervised Semantic Segmentation[<a href="./slides/zengsheng.pdf">slides</a>]
     </td>
   </tr>
 
