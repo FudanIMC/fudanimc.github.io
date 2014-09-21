@@ -31,7 +31,7 @@
           <h2><a name="welcome" class="anchor" href="#welcome"><span class="octicon octicon-link"></span></a>Welcome to IMC@Fudan Reading Group.</h2>
 
 <h3>
-<a name="fall-2014-schedule" class="anchor" href="#fall-2014-schedule"><span class="octicon octicon-link"></span></a>Fall 2014 Schedule<br> Monday 18:30-20:30, Fudan University<br></h3>
+<a name="fall-2014-schedule" class="anchor" href="#fall-2014-schedule"><span class="octicon octicon-link"></span></a>Fall 2014 Schedule<br>Monday 18:30-20:30, Z2201<br></h3>
 
 <table class="p" cellpadding="5">
   <tr bgcolor="#F5EEC6">
@@ -89,7 +89,14 @@
 
 <ul>
 <li><p><a href="./slides/writing.pdf">How to Write a Good Research Paper</a></p></li>
-<li><p><a href="http://10.141.208.19/CVAA.pdf">Computer.Vision.A.Modern.Approach,.David.A..Forsyth,.Jean.Ponce,.2ed,.PH,.2012</a></p></li>
+</ul>
+
+<ul>
+<li><p><a href="./info/The_Science_of_Scientific_Writing.pdf">The Science of Scientific Writing</a></p></li>
+</ul>
+
+<ul>
+<li><p><a href="./info/writing.pdf">How to Write Great Papers</a></p></li>
 </ul>
 
         </section>
