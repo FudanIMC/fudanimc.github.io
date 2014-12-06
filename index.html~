@@ -1,0 +1,182 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <title>Reading Group by FudanIMC</title>
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <h1>Reading Group</h1>
+        <h2>IMC@Fudan</h2>
+        <a href="https://github.com/FudanIMC" class="button"><small>Follow me on</small>GitHub</a>
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          <h2><a name="welcome" class="anchor" href="#welcome"><span class="octicon octicon-link"></span></a>Welcome to IMC@Fudan Reading Group.</h2>
+
+<h3>
+<a name="fall-2014-schedule" class="anchor" href="#fall-2014-schedule"><span class="octicon octicon-link"></span></a>Fall 2014 Schedule<br>Monday 18:30-20:30, Z2201<br></h3>
+
+<table class="p" cellpadding="5">
+  <tr bgcolor="#F5EEC6">
+     <th class="bottomborder" align="middle" width="75">Date</th>
+    <th class="bottomborder" align="middle" width="100">Lecturer</th>
+    <th class="bottomborder" align="middle" width="300">Topic</th>
+  </tr>
+
+  <tr>
+    <td>Sept 15</td>
+    <td>Sheng Zeng</td>
+    <td>Weakly-Supervised Semantic Segmentation[<a href="./slides/zengsheng.pdf">slides</a>]
+    </td>
+  </tr>
+
+  <tr  bgcolor="#F5EEC6">
+    <td>Sept 15</td>
+    <td>Dequan Wang</td>
+    <td>Convolutional Neural Network[<a href="./slides/wangdequan.pdf">slides</a>]
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Sept 22</td>
+    <td>Ningyi Deng</td>
+    <td>Salient Region Detection[<a href="./slides/9-22_dny.pdf">slides</a>]
+    </td>
+  </tr>
+
+  <tr  bgcolor="#F5EEC6">
+    <td>Sept 22</td>
+    <td>Qipeng Guo</td>
+    <td>Person Re-Identification[<a href="./slides/9-22_gqp_en.pdf">slides</a>] [<a href="./slides/9-22_gqp.pdf">slides_cn</a>]
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Sept 29</td>
+    <td>Hao Guan</td>
+    <td>Video Object Tracking[<a href="./slides/Tracking_for_Multimedia-Hao_Guan.pdf">slides</a>]
+    </td>
+  </tr>
+
+  <tr  bgcolor="#F5EEC6">
+    <td>Sept 29</td>
+    <td>Guangzhen Zhou</td>
+    <td>Deformable Parts Model[<a href="./slides/dpmv2_zgz.pdf">slides</a>]
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Oct 13</td>
+    <td>Pan Gu</td>
+    <td>Three Algorithms in Large Scale[<a href="./slides/three_algorithm_gp.pdf">slides</a>]
+    </td>
+  </tr>
+
+  <tr bgcolor="#F5EEC6">
+    <td>Oct 20</td>
+    <td>Ruiqi Zhang</td>
+    <td>Large-scale image classification[<a href="./slides/zrq.pdf">slides</a>][<a href="./slides/zrq.mm">mm</a>]
+    </td>
+  </tr>
+
+  <tr>
+    <td>Oct 20</td>
+    <td>Zuxuan Wu</td>
+    <td>Action and Event Recognition[<a href="./slides/EventDetection.pdf">slides</a>]
+    </td>
+  </tr>
+
+  <tr bgcolor="#F5EEC6">
+    <td>Oct 27</td>
+    <td>Zhiqiang Shen</td>
+    <td>Fine-grained Recognition[<a href="./slides/fine-grained.pptx">slides</a>]
+    </td>
+  </tr>
+
+  <tr>
+    <td>Nov 3</td>
+    <td>Hao Ye</td>
+    <td>Motion Features[<a href="./slides/Motion Features.pptx">slides</a>]
+    </td>
+  </tr>
+
+  <tr bgcolor="#F5EEC6">
+    <td>Nov 10</td>
+    <td>Zhedong Zheng</td>
+    <td>Face Recognition[<a href="./slides/zzd.ppt">slides</a>]
+    </td>
+  </tr>
+
+  <tr>
+    <td>Nov 17</td>
+    <td>Yanye Li</td>
+    <td>Person Re-Identification[<a href="./slides/Person Re-Identification.pptx">slides</a>]
+    </td>
+  </tr>
+
+  <tr bgcolor="#F5EEC6">
+    <td>Nov 17</td>
+    <td>Ningyi Deng</td>
+    <td>Top-down Attention Signals in Saliency[<a href="./slides/Top-down Attention Signals in Saliency .pdf">slides</a>]
+    </td>
+  </tr>
+
+  <tr>
+    <td>Nov 24</td>
+    <td>Yunbin Zhu</td>
+    <td>Introduction of H.265-4K[<a href="./slides/zhuyb.pptx">slides</a>]
+    </td>
+  </tr>
+
+</table>
+
+<h3>
+<a name="tips" class="anchor" href="#tips"><span class="octicon octicon-link"></span></a>Writing Tips<br></h3>
+
+<ul>
+<li><p><a href="./slides/writing.pdf">How to Write a Good Research Paper</a></p></li>
+</ul>
+
+<ul>
+<li><p><a href="./info/The_Science_of_Scientific_Writing.pdf">The Science of Scientific Writing</a></p></li>
+</ul>
+
+<ul>
+<li><p><a href="./info/How_to_Write_Great_Papers.pdf">How to Write Great Papers</a></p></li>
+</ul>
+
+<ul>
+<li><p><a href="./info/Google.pdf">Google’s Hybrid Approach to Research</a></p></li>
+</ul>
+
+        </section>
+
+        <aside id="sidebar">
+
+
+          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the Architect theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.</p>
+          
+        </aside>
+      </div>
+    </div>
+
+  
+  </body>
+</html>
